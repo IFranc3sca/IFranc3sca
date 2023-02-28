@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![image](https://user-images.githubusercontent.com/116550464/219017264-15af27e2-e159-41d8-aa48-d8c4b2692c6a.png)
 <p>I'm Francesca and i'm a programming student, I'd like to be a Web Developer one day ✨</p>
-<p>🔭 I’m currently working on a React project to build my first app.</p>
+<p>🔭 Here you can find my first react app, a quiz game, the repository is called "CB5-final-projectgruppoD".</p>
 <p>🌱 I’m currently studying React, PHP and Laravel.</p>
 
 
